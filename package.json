@@ -29,6 +29,9 @@
     "@types/react-dom": "^18.0.9",
     "@types/systemjs": "^6.13.0",
     "cross-env": "^7.0.3",
+    "esbuild": "^0.23.1",
+    "nypm": "^0.3.11",
+    "piral-cli": "^1.6.1",
     "prettier": "^2.8.1",
     "rollup": "^3.7.5",
     "rollup-plugin-clear": "^2.0.7",
@@ -37,23 +40,5 @@
     "serve": "^14.1.2",
     "typescript": "^4.9.4"
   },
-  "dependencies": {
-    "@emotion/react": "^11.10.5",
-    "@emotion/styled": "^11.10.5",
-    "@fontsource/roboto": "^4.5.8",
-    "@mui/material": "^5.11.0",
-    "@mui/x-data-grid": "^5.17.16",
-    "@mui/x-date-pickers": "^5.0.11",
-    "@remix-run/router": "^1.1.0",
-    "axios": "^1.2.1",
-    "dayjs": "^1.11.7",
-    "i18next": "^22.4.5",
-    "material-icons": "^1.13.1",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-i18next": "^12.1.1",
-    "react-router": "^6.5.0",
-    "react-router-dom": "^6.5.0",
-    "systemjs": "^6.13.0"
-  }
+  "dependencies": {}
 }
